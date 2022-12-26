@@ -1,6 +1,8 @@
 # Literature
 已经阅读过的文献及笔记整理
 
+Github入门指南：https://zhuanlan.zhihu.com/p/337959303
+
 **上传步骤**
 - 点击“uploading an existing file”
 
